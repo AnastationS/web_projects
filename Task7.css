@@ -1,0 +1,47 @@
+h1{
+    text-align: right;
+    font-size: 50px;
+    font-family: Arial;  
+}
+h2{   
+    text-align: justify;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Georgia;
+}
+p{
+    font-size: 30px;   
+}
+.first{
+    font-family: Verdana;
+}
+.white{
+    color: antiquewhite;
+}
+.second{
+    font-family: Trebuchet MS;
+}
+.third{
+    font-family: Impact;
+}
+.fourth{
+    font-family: Arial Black;
+}
+.fifth{
+    font-family: Comic Sans MS;
+}
+.sixth{
+    font-family: Courier New;
+}
+.seventh{
+    font-family: Times New Roman;
+    font-size: 30px;
+    line-height: 45px;
+}
+.eight{
+    font-family: Verdana;
+    font-size: 30px;
+    line-height: 1.5;
+    text-align: justify;
+    width: 800px;
+}

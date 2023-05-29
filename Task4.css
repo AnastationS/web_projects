@@ -1,0 +1,23 @@
+h1{
+    text-align: right;
+    color: #afb341;   
+}
+h2{
+    width: 300px;
+    text-align: center;
+    font-style: italic;    	 
+}
+table{
+    width: 500px;
+    border-color:#982669;
+}
+th{
+    text-align: left;
+}
+td{
+    text-align: center; 
+}
+p{
+    width: 300px;
+    text-align: justify;   
+}

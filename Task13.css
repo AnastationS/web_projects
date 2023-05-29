@@ -1,0 +1,23 @@
+h1{
+    width: 500px;
+    text-align: center;
+    font: bold 45px Times New Roman;
+    color: blue;    
+}
+h2{
+    width: 500px;
+    text-align: center;
+    font: 35px Times New Roman;
+    color: green; 
+}
+p{
+    width: 570px;
+    text-align: justify;
+    text-indent: 50px;
+    font: 20px/30px Arial;
+}
+li{
+    width: 420px;
+    text-align: justify;
+    font: 15px/25px Times New Roman;
+}

@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial;
+    color: #FF8540	;
+}
+.first{
+    font-family: Times New Roman;
+    font-size: 13px;
+    line-height: 20px;
+}
+.second{
+    font: 13px/20px Times New Roman;
+}
+.fourth{
+    text-align: justify;
+    font-family: Arial;
+    color: red	;
+    font-size: 40px;
+    font-weight: bold;    
+    width: 300px;
+}
+.fifth{
+    text-align: justify;
+    font:bold 40px Arial;
+    color: red	;
+    width: 300px;
+}
+.eight{
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    text-indent: 50px;
+    font-style: italic;
+    line-height: 60px;
+}
+.seventh{
+    font:italic bold 40px/60px Arial;    
+    text-indent: 50px;
+    
+}
