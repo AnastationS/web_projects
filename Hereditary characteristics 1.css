@@ -1,0 +1,25 @@
+.first{
+    font-family: Arial;
+    text-decoration: overline;
+    text-align: left;
+    font:italic bold 20px/30px Arial;
+    color: #441a01	; 
+}
+table{
+    font-family: Arial;
+    text-decoration: underline;
+    text-align: center;
+    color: #034d30
+}
+.third{
+    font-family: Arial;
+    text-decoration: underline;
+    text-align: center;
+    color: #0b326e
+}  
+.fourth{
+    font-family: Arial;
+    text-decoration: overline;
+    text-align: center;
+    color: #2e055a
+}
