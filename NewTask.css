@@ -1,0 +1,40 @@
+
+.container{
+    width:1200px;
+    background:#9f2504;
+    margin: 0 auto;
+   
+}
+.block1{
+    width:800px;
+    height: 200px;
+    float: left;
+    background:#249cba;
+}
+.block2{
+    width:800px;
+    height:400px;
+    float: left;
+    background:#9f0ff2;
+}
+.block3{
+    width:400px;
+    height:400px;
+    float: left;
+    background:#ecec07; 
+} 
+.block4 {
+    width:1200px;
+    height:1200px;
+    background:#9f2504;
+}
+.block5{
+    width:400px;
+    height:1200px;
+    background:#000000;
+}
+.block6{
+    width:400px;
+    height:600px;
+    background:#9f0ff2;
+}
